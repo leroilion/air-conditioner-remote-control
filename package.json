@@ -1,0 +1,15 @@
+{
+  "name": "arduino-project-template",
+  "version": "1.0.0",
+  "description": "This is arduino source code for robot of team Les Cools Girls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ghooks": "^2.0.0",
+    "validate-commit-msg": "^2.12.1"
+  }
+}
