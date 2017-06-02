@@ -1,3 +1,6 @@
 [submodule "arduino-mk"]
 	path = arduino-mk
 	url = git@github.com:sudar/Arduino-Makefile.git
+[submodule "lib/IRremote"]
+	path = lib/IRremote
+	url = git@github.com:z3t0/Arduino-IRremote.git
